@@ -1,0 +1,6 @@
+module Pods_RNBackgroundService {
+  umbrella header "Pods-RNBackgroundService-umbrella.h"
+
+  export *
+  module * { export * }
+}

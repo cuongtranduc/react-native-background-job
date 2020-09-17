@@ -1,0 +1,6 @@
+module Pods_RNBackgroundService_RNBackgroundServiceTests {
+  umbrella header "Pods-RNBackgroundService-RNBackgroundServiceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
